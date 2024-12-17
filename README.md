@@ -15,7 +15,7 @@ repositories {
 2. Add `implementation('com.github.sophiethetransshork:ShorkAPI:Tag')` to dependencies. You can get latest release [here](https://jitpack.io/#sophiethetransshork/ShorkAPI)
 ```gradle
 dependencies {
-  implementation 'com.github.sophiethetransshork:ShorkAPI:Tag'
+  implementation('com.github.sophiethetransshork:ShorkAPI:Tag')
 }
 ```
 3. Use the API!
