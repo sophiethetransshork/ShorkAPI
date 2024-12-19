@@ -1,4 +1,4 @@
-package pl.sophietheshork.shorkapi.en.minecraft.enums;
+package pl.sophietheshork.shorkapi.minecraft.enums;
 
 /**
  * @author xKris

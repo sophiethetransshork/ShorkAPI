@@ -1,4 +1,4 @@
-package pl.sophietheshork.shorkapi.en.minecraft.utils;
+package pl.sophietheshork.shorkapi.minecraft.utils;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.ComponentBuilder;
@@ -11,7 +11,7 @@ import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import pl.sophietheshork.shorkapi.en.minecraft.enums.Color;
+import pl.sophietheshork.shorkapi.minecraft.enums.Color;
 
 import java.util.HashMap;
 import java.util.Iterator;

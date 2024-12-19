@@ -1,4 +1,6 @@
 # ShorkAPI
+ShorkAPI is an API that i use in my minecraft plugins, if you want to use it, you can do it but you need to mention it.
+# ShorkAPI
 An API created to make life easier fr
 
 ## Credits

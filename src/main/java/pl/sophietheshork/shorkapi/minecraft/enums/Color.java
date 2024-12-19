@@ -1,4 +1,4 @@
-package pl.sophietheshork.shorkapi.en.minecraft.enums;
+package pl.sophietheshork.shorkapi.minecraft.enums;
 
 import net.kyori.adventure.text.format.TextColor;
 import net.md_5.bungee.api.ChatColor;

@@ -1,4 +1,4 @@
-package pl.sophietheshork.shorkapi.en.minecraft.utils;
+package pl.sophietheshork.shorkapi.minecraft.utils;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
